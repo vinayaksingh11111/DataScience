@@ -9,3 +9,4 @@ git add .  //add all file present inside the current directory to git local repo
 git commit -m "changes made"   / to commit your files to github repo
 git remote add origin https://github.com/vinayaksingh11111/DataScience.git   // map your local repo to that github repo
 git push -u origin master   // to push your files to that online github repo
+git clone <url of the file>  // to clone the repository to your pc
