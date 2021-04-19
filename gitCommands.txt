@@ -1,3 +1,6 @@
+By Vinayak Singh:-
+
+
 echo .> filename.txt //to create a file
 git status // to get status of uncommited file
 echo "# DataScience" >> README.md  // to create a readme file with # Data Science inside it
