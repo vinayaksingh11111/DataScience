@@ -1,1 +1,8 @@
-
+echo .> filename.txt //to create a file
+git status // to get status of uncommited file
+echo "# DataScience" >> README.md  // to create a readme file with # Data Science inside it
+git init   // to create a local repository
+git add .  //add all file present inside the current directory to git local repository
+git commit -m "changes made"   / to commit your files to github repo
+git remote add origin https://github.com/vinayaksingh11111/DataScience.git   // map your local repo to that github repo
+git push -u origin master   // to push your files to that online github repo
